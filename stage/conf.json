@@ -16,8 +16,8 @@
         "┃ ",
         "小米接口群：665981772 "
     ],
-    "prefix": "★公瑾TV★",
-    "prefix_wolong": "★卧龙TV★",
+    "prefix": "东曦视界",
+    "prefix_wolong": "东曦影视",
     "title": "公众号「东曦视界」",
     "jxUrl": "https://www.lintech.work/api/m3u8/parse?token=%s&url=%s",
     "notice": "https://ghproxy.net/https://raw.githubusercontent.com/dxtop/box/main/stage/notice.json",
