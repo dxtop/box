@@ -1,7 +1,7 @@
 {
     "force_refresh": 0,
-    "source": "https://ghproxy.net/https://raw.githubusercontent.com/dxtop/box/main/stage/main.json",
-    "source_plus": "https://ghproxy.net/https://raw.githubusercontent.com/dxtop/box/main/stage/main.json",
+    "source": "http://box.iqinu.com",
+    "source_plus": "http://box.iqinu.com",
     "app_message": "本「APP」为开源免费项目, 仅供测试学习交流~\n\n使用过程中若出现广告均为三方插入, 与本公众号无关, 请勿相信, 配置 jxtoken 过滤这些广告~\n\n关注公众号「东曦视界」可获取更多信息~",
     "jar_message": "回复“签到”, 领临时密钥。领取密钥,!",
     "filter": [
