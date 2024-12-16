@@ -53,6 +53,12 @@
     {
         "name": "官方联系方式",
         "list": [
+	    {
+                "name": "微信社区",
+                "url": "http://box.iqinu.com/images/wxsq.jpg",
+                "icon": "http://box.iqinu.com/images/wxsq.jpg",
+                "version": "论坛"
+            },
             {
                 "name": "东曦视界",
                 "url": "http://box.iqinu.com/images/dxsj.jpg",
