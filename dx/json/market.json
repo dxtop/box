@@ -5,19 +5,19 @@
             {
                 "name": "支付宝赞赏",
                 "url": " ",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/zs_alipay.jpg",
+                "icon": "http://box.iqinu.com/images/zs_alipay.jpg",
                 "version": "感谢支持"
             },
             {
                 "name": "东曦视界",
                 "url": " ",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxsj.jpg",
+                "icon": "http://box.iqinu.com/images/dxsj.jpg",
                 "version": "公众号"
             },
             {
                 "name": "东曦影视",
                 "url": " ",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxys.jpg",
+                "icon": "http://box.iqinu.com/images/dxys.jpg",
                 "version": "公众号"
             }
         ]
@@ -27,14 +27,14 @@
         "list": [
             {
                 "name": "龙门影视",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.jpg",
+                "url": "http://box.iqinu.com/images/download.jpg",
+                "icon": "http://box.iqinu.com/images/download.jpg",
                 "version": "社区版"
             },
             {
                 "name": "龙门影视",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.jpg",
+                "url": "http://box.iqinu.com/images/download.jpg",
+                "icon": "http://box.iqinu.com/images/download.jpg",
                 "version": "纪念版"
             }
         ]
@@ -44,8 +44,8 @@
         "list": [
             {
                 "name": "龙门视频",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.jpg",
+                "url": "http://box.iqinu.com/images/download.jpg",
+                "icon": "http://box.iqinu.com/images/download.jpg",
                 "version": "手机版"
             }
         ]
@@ -55,38 +55,38 @@
         "list": [
             {
                 "name": "东曦视界",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxsj.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxsj.jpg",
+                "url": "http://box.iqinu.com/images/dxsj.jpg",
+                "icon": "http://box.iqinu.com/images/dxsj.jpg",
                 "version": "公众号"
             },
             {
                 "name": "东曦影视",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxys.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxys.jpg",
+                "url": "http://box.iqinu.com/images/dxys.jpg",
+                "icon": "http://box.iqinu.com/images/dxys.jpg",
                 "version": "公众号"
             },
             {
                 "name": "东曦宝盒",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbh.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbh.jpg",
+                "url": "http://box.iqinu.com/images/dxbh.jpg",
+                "icon": "http://box.iqinu.com/images/dxbh.jpg",
                 "version": "小程序"
             },
             {
                 "name": "东曦宝库",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbk.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbk.jpg",
+                "url": "http://box.iqinu.com/images/dxbk.jpg",
+                "icon": "http://box.iqinu.com/images/dxbk.jpg",
                 "version": "小程序"
             },
 	    {
                 "name": "东曦影视",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dy.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dy.jpg",
+                "url": "http://box.iqinu.com/images/dy.jpg",
+                "icon": "http://box.iqinu.com/images/dy.jpg",
                 "version": "抖音"
             },
 	    {
                 "name": "东曦视界",
-                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/sph.jpg",
-                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/sph.jpg",
+                "url": "http://box.iqinu.com/images/sph.jpg",
+                "icon": "http://box.iqinu.com/images/sph.jpg",
                 "version": "视频号"
             }
         ]
