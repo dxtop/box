@@ -23,34 +23,6 @@
         ]
     },
     {
-        "name": "龙门影视TV版",
-        "list": [
-            {
-                "name": "龙门影视",
-                "url": "http://box.iqinu.com/images/download.jpg",
-                "icon": "http://box.iqinu.com/images/download.jpg",
-                "version": "社区版"
-            },
-            {
-                "name": "龙门影视",
-                "url": "http://box.iqinu.com/images/download.jpg",
-                "icon": "http://box.iqinu.com/images/download.jpg",
-                "version": "纪念版"
-            }
-        ]
-    },
-    {
-        "name": "龙门视频手机版",
-        "list": [
-            {
-                "name": "龙门视频",
-                "url": "http://box.iqinu.com/images/download.jpg",
-                "icon": "http://box.iqinu.com/images/download.jpg",
-                "version": "手机版"
-            }
-        ]
-    },
-    {
         "name": "官方联系方式",
         "list": [
 	    {
@@ -94,6 +66,34 @@
                 "url": "http://box.iqinu.com/images/sph.jpg",
                 "icon": "http://box.iqinu.com/images/sph.jpg",
                 "version": "视频号"
+            }
+        ]
+    },
+    {
+        "name": "龙门影视TV版",
+        "list": [
+            {
+                "name": "龙门影视",
+                "url": "http://box.iqinu.com/images/download.jpg",
+                "icon": "http://box.iqinu.com/images/download.jpg",
+                "version": "社区版"
+            },
+            {
+                "name": "龙门影视",
+                "url": "http://box.iqinu.com/images/download.jpg",
+                "icon": "http://box.iqinu.com/images/download.jpg",
+                "version": "纪念版"
+            }
+        ]
+    },
+    {
+        "name": "龙门视频手机版",
+        "list": [
+            {
+                "name": "龙门视频",
+                "url": "http://box.iqinu.com/images/download.jpg",
+                "icon": "http://box.iqinu.com/images/download.jpg",
+                "version": "手机版"
             }
         ]
     }
