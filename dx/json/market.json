@@ -1,0 +1,94 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "支付宝赞赏",
+                "url": " ",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/zs_alipay.jpg",
+                "version": "感谢支持"
+            },
+            {
+                "name": "东曦视界",
+                "url": " ",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxsj.jpg",
+                "version": "公众号"
+            },
+            {
+                "name": "东曦影视",
+                "url": " ",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxys.jpg",
+                "version": "公众号"
+            }
+        ]
+    },
+    {
+        "name": "龙门影视TV版",
+        "list": [
+            {
+                "name": "龙门影视",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.png",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.png",
+                "version": "社区版"
+            },
+            {
+                "name": "龙门影视",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.png",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.png",
+                "version": "纪念版"
+            }
+        ]
+    },
+    {
+        "name": "龙门视频手机版",
+        "list": [
+            {
+                "name": "龙门视频",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.png",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/download.png",
+                "version": "手机版"
+            }
+        ]
+    },
+    {
+        "name": "官方联系方式",
+        "list": [
+            {
+                "name": "东曦视界",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxsj.jpg",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxsj.jpg",
+                "version": "公众号"
+            },
+            {
+                "name": "东曦影视",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxys.jpg",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxys.jpg",
+                "version": "公众号"
+            },
+            {
+                "name": "东曦宝盒",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbh.jpg",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbh.jpg",
+                "version": "小程序"
+            },
+            {
+                "name": "东曦宝库",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbk.jpg",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dxbk.jpg",
+                "version": "小程序"
+            },
+	    {
+                "name": "东曦影视",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dy.jpg",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/dy.jpg",
+                "version": "抖音"
+            },
+	    {
+                "name": "东曦视界",
+                "url": "https://raw.kkgithub.com/dxtop/box/main/dx/images/sph.jpg",
+                "icon": "https://raw.kkgithub.com/dxtop/box/main/dx/images/sph.jpg",
+                "version": "视频号"
+            }
+        ]
+    }
+]
