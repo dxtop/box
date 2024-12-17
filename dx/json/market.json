@@ -26,6 +26,12 @@
         "name": "官方联系方式",
         "list": [
 	    {
+                "name": "支付宝赞赏",
+                "url": " ",
+                "icon": "http://box.iqinu.com/images/zs_alipay.jpg",
+                "version": "感谢支持"
+            },
+	    {
                 "name": "微信社区",
                 "url": "http://box.iqinu.com/images/wxsq.jpg",
                 "icon": "http://box.iqinu.com/images/wxsq.jpg",
